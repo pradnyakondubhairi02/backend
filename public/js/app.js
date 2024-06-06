@@ -1,0 +1,1 @@
+console.log("client side script is loadd in console tab")
